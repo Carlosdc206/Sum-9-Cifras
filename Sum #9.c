@@ -1,4 +1,6 @@
 /*Calcular y presentar cuantas cifras tiene un determinado valor numerico introducido por teclado*/
+#include <cstdlib>
+#include <stdio.h>
 
 using namespace std;
 
